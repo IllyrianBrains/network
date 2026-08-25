@@ -1,2 +1,3 @@
 # network
-Find your peers, built something.
+
+Find your peers, build something of value.

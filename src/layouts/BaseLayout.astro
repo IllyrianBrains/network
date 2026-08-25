@@ -1,0 +1,36 @@
+---
+import '../styles/global.css';
+const { title = 'IB Global III · Tiranë', description = 'Tri ditë me ide, bashkëpunim dhe komunitet në rrjetin Illyrian Brains — Tiranë, 18–20 Shtator 2026.' } = Astro.props;
+---
+<!doctype html>
+<html lang="sq">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/png" href="/assets/fv.png" />
+    <link rel="canonical" href="https://global.illyrianbrains.org/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <title>{title}</title>
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="IB Global" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://global.illyrianbrains.org/" />
+    <meta property="og:image" content="https://global.illyrianbrains.org/assets/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="IB Global III · Tiranë, 18–20 Shtator 2026" />
+    <meta property="og:locale" content="sq_AL" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://global.illyrianbrains.org/assets/og-image.png" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

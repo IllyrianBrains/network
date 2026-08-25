@@ -1,0 +1,53 @@
+community_id,city,country,region,status,established_year,events_count,participants_count,event_attendance_total,primary_focus,tags,data_status
+berlin,Berlin,Germany,Europe,active,2018,42,380,1640,Technology,technology;startups;research;culture,seed
+dusseldorf,Düsseldorf,Germany,Europe,active,2021,16,145,510,Business,business;finance;technology,seed
+frankfurt,Frankfurt,Germany,Europe,active,2020,21,190,720,Finance,finance;business;leadership,seed
+cologne,Cologne,Germany,Europe,active,2021,18,170,590,Technology,technology;design;culture,seed
+lugano,Lugano,Switzerland,Europe,active,2022,11,92,270,Finance,finance;business;investment,seed
+munich,Munich,Germany,Europe,active,2019,31,265,1120,Technology,technology;engineering;startups,seed
+nuremberg,Nürnberg,Germany,Europe,active,2022,12,105,330,Engineering,engineering;technology;education,seed
+vienna,Vienna,Austria,Europe,active,2019,29,245,980,Culture,culture;technology;leadership,seed
+zurich,Zurich,Switzerland,Europe,active,2018,38,335,1470,Finance,finance;technology;investment,seed
+copenhagen,Copenhagen,Denmark,Europe,active,2021,19,160,610,Design,design;urbanism;sustainability,seed
+helsinki,Helsinki,Finland,Europe,forming,2024,5,58,120,Technology,technology;education;research,seed
+krakow,Krakow,Poland,Europe,forming,2024,4,45,90,Engineering,engineering;technology;education,seed
+stockholm,Stockholm,Sweden,Europe,active,2021,17,155,540,Technology,technology;startups;sustainability,seed
+malmo,Malmo,Sweden,Europe,forming,2024,5,52,115,Design,design;culture;sustainability,seed
+oslo,Oslo,Norway,Europe,active,2022,13,118,380,Energy,energy;sustainability;technology,seed
+prague,Prague,Czechia,Europe,active,2022,12,110,350,Technology,technology;culture;startups,seed
+amsterdam,Amsterdam,Netherlands,Europe,active,2020,24,220,830,Technology,technology;design;startups,seed
+brussels,Brussels,Belgium,Europe,active,2020,20,185,670,Policy,policy;leadership;business,seed
+dublin,Dublin,Ireland,Europe,active,2021,18,175,620,Technology,technology;finance;startups,seed
+london,London,United Kingdom,Europe,active,2017,49,460,2140,Business,business;technology;finance;culture,seed
+luxembourg,Luxembourg,Luxembourg,Europe,active,2022,12,108,340,Finance,finance;policy;investment,seed
+madrid,Madrid,Spain,Europe,active,2022,14,125,410,Business,business;culture;technology,seed
+manchester,Manchester,United Kingdom,Europe,active,2022,11,102,320,Technology,technology;engineering;education,seed
+paris,Paris,France,Europe,active,2019,28,250,960,Culture,culture;design;technology;business,seed
+cheltenham,Cheltenham,United Kingdom,Europe,forming,2024,4,42,88,Education,education;technology;community,seed
+florence,Florence,Italy,Europe,active,2022,10,96,290,Culture,culture;design;art,seed
+genoa,Genoa,Italy,Europe,forming,2023,7,68,170,Business,business;maritime;technology,seed
+malta,Malta,Malta,Europe,active,2022,13,116,370,Business,business;technology;tourism,seed
+milan,Milan,Italy,Europe,active,2019,27,238,910,Design,design;business;technology;fashion,seed
+parma,Parma,Italy,Europe,forming,2024,4,46,95,Food,food;business;culture,seed
+rome,Rome,Italy,Europe,active,2021,16,150,520,Policy,policy;culture;business,seed
+tirana,Tirana,Albania,Balkans,active,2016,64,720,3820,Entrepreneurship,entrepreneurship;technology;culture;education;impact,seed
+trento,Trento,Italy,Europe,forming,2023,6,61,145,Research,research;education;technology,seed
+boston,Boston,United States,North America,active,2019,25,230,870,Research,research;health;technology;education,seed
+chicago,Chicago,United States,North America,active,2021,17,168,570,Business,business;finance;community,seed
+miami,Miami,United States,North America,active,2021,20,195,690,Entrepreneurship,entrepreneurship;real-estate;technology,seed
+minnesota,Minnesota,United States,North America,forming,2023,7,74,185,Health,health;education;community,seed
+new-york,New York,United States,North America,active,2017,51,510,2420,Finance,finance;business;technology;culture,seed
+philadelphia,Philadelphia,United States,North America,active,2022,12,120,390,Health,health;education;research,seed
+san-jose,San Jose,United States,North America,active,2020,23,215,810,Technology,technology;engineering;startups;ai,seed
+tampa,Tampa,United States,North America,forming,2023,8,82,210,Business,business;health;community,seed
+washington-dc,Washington DC,United States,North America,active,2019,22,205,760,Policy,policy;leadership;international,seed
+barcelona,Barcelona,Spain,Europe,active,2021,15,142,475,Design,design;technology;culture;urbanism,seed
+bologna,Bologna,Italy,Europe,forming,2023,7,71,180,Education,education;culture;technology,seed
+dubai,Dubai,United Arab Emirates,Middle East,active,2021,21,210,780,Business,business;technology;investment,seed
+fort-lauderdale,Fort Lauderdale,United States,North America,forming,2024,5,55,125,Business,business;community;real-estate,seed
+freiburg,Freiburg,Germany,Europe,forming,2023,7,69,175,Sustainability,sustainability;research;technology,seed
+hamburg,Hamburg,Germany,Europe,active,2021,16,148,500,Business,business;maritime;technology,seed
+new-jersey,New Jersey,United States,North America,active,2021,14,138,450,Business,business;health;community,seed
+shkup,Shkup,North Macedonia,Balkans,active,2020,24,225,850,Culture,culture;entrepreneurship;education,seed
+toronto,Toronto,Canada,North America,active,2019,28,270,1040,Technology,technology;business;culture;ai,seed
+stuttgart,Stuttgart,Germany,Europe,active,2021,17,158,560,Engineering,engineering;mobility;technology,seed

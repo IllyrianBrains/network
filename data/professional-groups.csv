@@ -1,0 +1,13 @@
+group_id,name,status,established_year,events_count,participants_count,event_attendance_total,primary_focus,tags,data_status
+technology,Teknologji,active,2017,58,820,3420,Teknologji,software;ai;data;engineering,seed
+design,Dizajn,active,2019,31,360,1280,Dizajn,product-design;graphic-design;ux;creative,seed
+architecture,Arkitekturë & Urbanizëm,active,2020,24,275,890,Arkitekturë,architecture;urbanism;planning;sustainability,seed
+product,Produkt,active,2020,29,330,1080,Produkt,product;strategy;ux;technology,seed
+finance,Financë & Investime,active,2018,38,440,1650,Financë,finance;investment;banking;fintech,seed
+entrepreneurship,Sipërmarrje,active,2017,52,680,2860,Sipërmarrje,startups;business;fundraising;leadership,seed
+research,Kërkim & Akademi,active,2019,27,315,970,Kërkim,research;education;science;academia,seed
+health,Shëndetësi & Shkenca të Jetës,active,2021,19,240,690,Shëndetësi,health;medicine;biotech;research,seed
+culture,Art & Kulturë,active,2019,26,300,930,Kulturë,art;culture;media;heritage,seed
+policy,Politika Publike,active,2021,18,205,570,Politika,policy;governance;international;leadership,seed
+sustainability,Qëndrueshmëri & Energji,forming,2022,15,185,480,Qëndrueshmëri,sustainability;energy;climate;urbanism,seed
+legal,Drejtësi,forming,2022,13,160,390,Drejtësi,law;policy;business;governance,seed
